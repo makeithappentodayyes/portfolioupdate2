@@ -1,0 +1,29 @@
+.resume{
+
+    line-height: 5px ;
+}
+
+.resume p{
+    font-size: 20px;
+}
+.card1{
+    padding-top: 26px;
+    padding-bottom: 100px; 
+}
+
+.card2{
+    padding-top: 50px;
+    padding-bottom: 100px; 
+}
+
+
+.card3{
+    padding-top: 50px;
+    padding-bottom: 100px; 
+}
+
+
+
+body{
+    background-color: lightgray;
+}
